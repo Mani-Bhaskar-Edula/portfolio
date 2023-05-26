@@ -62,7 +62,7 @@ const Banner = () => {
                       viewport={{once:false, amount:0.7}}
                       className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
               <button  className='btn btn-lg' >Contact me</button>
-              <a href='https://drive.google.com/file/d/1RrsMFMKSu58KIuKRgALp-FNeviZP_e_s/view?usp=share_link' className='text-gradient btn-link'>
+              <a href='https://drive.google.com/file/d/1l_PqtzcCPzIqhzFPk9mrK3kh1tD7UtED/view?usp=sharing' className='text-gradient btn-link'>
                 My Resume
               </a>
             </motion.div>
