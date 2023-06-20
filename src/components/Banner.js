@@ -62,7 +62,7 @@ const Banner = () => {
                       viewport={{once:false, amount:0.7}}
                       className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
               <button  className='btn btn-lg' >Contact me</button>
-              <a href='https://drive.google.com/file/d/1EHMxrxIiNTctRSQYUTwA-aQQVaMal4v3/view?usp=sharing' className='text-gradient btn-link'>
+              <a href='https://drive.google.com/file/d/1xDXc0ncUoJdmnY1AMk1mwojK2XsNgwN5/view?usp=sharing' className='text-gradient btn-link'>
                 My Resume
               </a>
             </motion.div>
@@ -73,13 +73,13 @@ const Banner = () => {
             whileInView={'show'}
             viewport={{once:false, amount:0.7}}
              className='flex text-[200p] gap-x-6 max-w-max mx-auto lg:mx-0'>
-              <a href='https://youtu.be/2cKStQybvdc'>
+              <a href='https://www.youtube.com/channel/UC_JuFNHZnzTZlTsz0DQjYDQ'>
                 <FaYoutube />
               </a>
               <a href='https://github.com/Mani-Bhaskar-Edula'>
                   <FaGithub/>
                 </a>
-                <a href='https://twitter.com/Mani_Bhaskar_'>
+                <a href='https://twitter.com/manibhaskar_'>
                   <FaTwitter/>
                 </a>
                 <a href='https://www.linkedin.com/in/manibhaskar/'>

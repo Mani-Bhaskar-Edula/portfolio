@@ -17,7 +17,7 @@ const services=[
     name:'Sales Strategist',
     description:
     'As a young sales strategist, I proved my business acumen by selling electronic lanterns with high profitability.',
-    link:'https://www.linkedin.com/posts/mani-bhaskar-9468a51b5_memory-of-selling-the-lights-on-street-when-activity-7053606403512434689-QtjX?utm_source=share&utm_medium=member_desktop',
+    link:'https://www.linkedin.com/posts/manibhaskar_memory-of-selling-the-lights-on-street-when-activity-7053606403512434689-y9pz/?utm_source=share&utm_medium=member_desktop',
   },
   {
     name:'Blockchain Developer',
@@ -29,7 +29,7 @@ const services=[
     name:'Mentor',
     description:
     'Mentored and coached over 200 students in learning C++, data structures and application development.',
-    link:`https://www.linkedin.com/posts/mani-bhaskar-9468a51b5_activity-7053233471640518657-vpwg?utm_source=share&utm_medium=member_desktop`,
+    link:`https://www.linkedin.com/posts/manibhaskar_activity-7053233471640518657-TerX?utm_source=share&utm_medium=member_desktop`,
   },
 ];
 
